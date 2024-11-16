@@ -1,0 +1,212 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731774988
+bg.gd::GDScript::-1::1731768782::0::1::::<>ParallaxBackground<>::
+bg.tscn::PackedScene::7933263103606824427::1731768782::0::1::::<><>::res://bg.gd<>uid://b1n6nvduvg75b::::res://spritess/background/background_layer_1.png<>uid://bbc1s38yei4s6::::res://spritess/background/background_layer_2.png<>uid://cm3tyfwskrvry::::res://spritess/background/background_layer_3.png
+icon.svg::CompressedTexture2D::1132063605956519514::1731768782::1731773769::1::::<><>::
+level.tscn::PackedScene::2659686049055944379::1731768782::0::1::::<><>::uid://dwsoymla3v37d::::res://Player/player.tscn<>res://bg.gd<>uid://bi8l136dn18jm::::res://spritess/oak_woods_tileset.png<>uid://b1n6nvduvg75b::::res://spritess/background/background_layer_1.png<>uid://bbc1s38yei4s6::::res://spritess/background/background_layer_2.png<>uid://cm3tyfwskrvry::::res://spritess/background/background_layer_3.png<>uid://cd6efv07swe8h::::res://Items/Energems/energem2d.tscn
+menu.gd::GDScript::-1::1731768782::0::1::::<>Node2D<>::
+menu.tscn::PackedScene::7499166436167609723::1731773777::0::1::::<><>::res://menu.gd<>uid://dla6xi8318j76::::res://bg.tscn
+README.md::TextFile::-1::1731768782::0::1::::<><>::
+::res://asset/::1731768782
+README.md::TextFile::-1::1731768782::0::1::::<><>::
+::res://Items/::1731768782
+::res://Items/Energems/::1731768782
+energem2d.tscn::PackedScene::5047656548706064137::1731768782::0::1::::<><>::uid://qem6mb5osyec::::res://icon.svg<>res://Items/Energems/energem_2d.gd
+energem_2d.gd::GDScript::-1::1731768782::0::1::::<>Area2D<>::
+::res://Player/::1731768782
+player.gd::GDScript::-1::1731768782::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::8741468954952866139::1731768782::0::1::::<><>::uid://dmw4l2b716avf::::res://Player/Warrior/SpriteSheet/Warrior_Sheet-Effect.png<>res://Player/player.gd
+::res://Player/Warrior/::1731768782
+Contact.txt::TextFile::-1::1731768782::0::1::::<><>::
+License.txt::TextFile::-1::1731768782::0::1::::<><>::
+::res://Player/Warrior/Individual Sprite/::1731768782
+::res://Player/Warrior/Individual Sprite/Attack/::1731773769
+Warrior_Attack_1.png::CompressedTexture2D::4240739741201917080::1731768782::1731773769::1::::<><>::
+Warrior_Attack_2.png::CompressedTexture2D::7155077295613584668::1731768782::1731773769::1::::<><>::
+Warrior_Attack_3.png::CompressedTexture2D::3064918024891864864::1731768782::1731773769::1::::<><>::
+Warrior_Attack_4.png::CompressedTexture2D::3029200681360203877::1731768782::1731773769::1::::<><>::
+Warrior_Attack_5.png::CompressedTexture2D::3010724610381047510::1731768782::1731773769::1::::<><>::
+Warrior_Attack_6.png::CompressedTexture2D::2983217676352605584::1731768782::1731773769::1::::<><>::
+Warrior_Attack_7.png::CompressedTexture2D::4083997318986969979::1731768782::1731773769::1::::<><>::
+Warrior_Attack_8.png::CompressedTexture2D::4532001218657424261::1731768782::1731773769::1::::<><>::
+Warrior_Attack_9.png::CompressedTexture2D::1868735677701996301::1731768782::1731773769::1::::<><>::
+Warrior_Attack_10.png::CompressedTexture2D::4555299314237731292::1731768782::1731773769::1::::<><>::
+Warrior_Attack_11.png::CompressedTexture2D::7770238987688929569::1731768782::1731773769::1::::<><>::
+Warrior_Attack_12.png::CompressedTexture2D::7313173718958514776::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Crouch/::1731773769
+Warrior_Crouch_1.png::CompressedTexture2D::7921984177501558924::1731768782::1731773769::1::::<><>::
+Warrior_Crouch_2.png::CompressedTexture2D::7193300663977585706::1731768782::1731773769::1::::<><>::
+Warrior_Crouch_3.png::CompressedTexture2D::3450405858075172950::1731768782::1731773769::1::::<><>::
+Warrior_Crouch_4.png::CompressedTexture2D::1307542328830519111::1731768782::1731773769::1::::<><>::
+Warrior_Crouch_5.png::CompressedTexture2D::472428848405939824::1731768782::1731773769::1::::<><>::
+Warrior_Crouch_6.png::CompressedTexture2D::4709987641352903601::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Dash/::1731773769
+Warrior_Dash_1.png::CompressedTexture2D::5291782865031878214::1731768782::1731773769::1::::<><>::
+Warrior_Dash_2.png::CompressedTexture2D::9052253950333580290::1731768782::1731773769::1::::<><>::
+Warrior_Dash_3.png::CompressedTexture2D::4566828203999537665::1731768782::1731773769::1::::<><>::
+Warrior_Dash_4.png::CompressedTexture2D::8924679975868192882::1731768782::1731773769::1::::<><>::
+Warrior_Dash_5.png::CompressedTexture2D::2227459469913934378::1731768782::1731773769::1::::<><>::
+Warrior_Dash_6.png::CompressedTexture2D::150883901857401193::1731768782::1731773769::1::::<><>::
+Warrior_Dash_7.png::CompressedTexture2D::5841563782672943527::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Dash Attack/::1731773769
+Warrior_Dash-Attack_1.png::CompressedTexture2D::8911390274385154730::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_2.png::CompressedTexture2D::8962427042372788663::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_3.png::CompressedTexture2D::8969864750632371552::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_4.png::CompressedTexture2D::4324961171956014534::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_5.png::CompressedTexture2D::4604234673924736506::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_6.png::CompressedTexture2D::4306465904904855319::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_7.png::CompressedTexture2D::8000724692584539787::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_8.png::CompressedTexture2D::2936921765271121360::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_9.png::CompressedTexture2D::1757410822841759814::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_10.png::CompressedTexture2D::6429093367108125825::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Dash-Attack_noDust/::1731773769
+Warrior_Dash-Attack_1.png::CompressedTexture2D::170526719979443224::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_2.png::CompressedTexture2D::2458867650411780773::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_3.png::CompressedTexture2D::7453687203574531034::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_4.png::CompressedTexture2D::7409586881976375762::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_5.png::CompressedTexture2D::1409209165819980396::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_6.png::CompressedTexture2D::9168911308383324583::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_7.png::CompressedTexture2D::8222437828571959710::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_8.png::CompressedTexture2D::2892509646040930581::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_9.png::CompressedTexture2D::2532151080477227828::1731768782::1731773769::1::::<><>::
+Warrior_Dash-Attack_10.png::CompressedTexture2D::4901197748614125138::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Dash_NoDust/::1731773769
+Warrior_Dash_1.png::CompressedTexture2D::7832646406787988096::1731768782::1731773769::1::::<><>::
+Warrior_Dash_2.png::CompressedTexture2D::1349771522996857359::1731768782::1731773769::1::::<><>::
+Warrior_Dash_3.png::CompressedTexture2D::1887372704167284475::1731768782::1731773769::1::::<><>::
+Warrior_Dash_4.png::CompressedTexture2D::9199546520396236470::1731768782::1731773769::1::::<><>::
+Warrior_Dash_5.png::CompressedTexture2D::8299679075644404448::1731768782::1731773769::1::::<><>::
+Warrior_Dash_6.png::CompressedTexture2D::5395563169857738865::1731768782::1731773769::1::::<><>::
+Warrior_Dash_7.png::CompressedTexture2D::706800912237469081::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Death-Effect/::1731773769
+Warrior_Death_1.png::CompressedTexture2D::8901222300021004598::1731768782::1731773769::1::::<><>::
+Warrior_Death_2.png::CompressedTexture2D::1063556103656130521::1731768782::1731773769::1::::<><>::
+Warrior_Death_3.png::CompressedTexture2D::1544138220100138718::1731768782::1731773769::1::::<><>::
+Warrior_Death_4.png::CompressedTexture2D::8483936482412964696::1731768782::1731773769::1::::<><>::
+Warrior_Death_5.png::CompressedTexture2D::7374527022340967365::1731768782::1731773769::1::::<><>::
+Warrior_Death_6.png::CompressedTexture2D::8500759284209961755::1731768782::1731773769::1::::<><>::
+Warrior_Death_7.png::CompressedTexture2D::7282129377956952990::1731768782::1731773769::1::::<><>::
+Warrior_Death_8.png::CompressedTexture2D::3798285169544656883::1731768782::1731773769::1::::<><>::
+Warrior_Death_9.png::CompressedTexture2D::5355321490114381171::1731768782::1731773769::1::::<><>::
+Warrior_Death_10.png::CompressedTexture2D::6228796773424865213::1731768782::1731773769::1::::<><>::
+Warrior_Death_11.png::CompressedTexture2D::305706141739112924::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/DeathnoEffect/::1731773769
+Warrior_Death_1.png::CompressedTexture2D::8821455950279625634::1731768782::1731773769::1::::<><>::
+Warrior_Death_2.png::CompressedTexture2D::6208492325759544302::1731768782::1731773769::1::::<><>::
+Warrior_Death_3.png::CompressedTexture2D::7271463907946596226::1731768782::1731773769::1::::<><>::
+Warrior_Death_4.png::CompressedTexture2D::294615537000559707::1731768782::1731773769::1::::<><>::
+Warrior_Death_5.png::CompressedTexture2D::7622722042490883970::1731768782::1731773769::1::::<><>::
+Warrior_Death_6.png::CompressedTexture2D::4578944992521508043::1731768782::1731773769::1::::<><>::
+Warrior_Death_7.png::CompressedTexture2D::3090017830008156075::1731768782::1731773769::1::::<><>::
+Warrior_Death_8.png::CompressedTexture2D::4971038393393924959::1731768782::1731773769::1::::<><>::
+Warrior_Death_9.png::CompressedTexture2D::6629287541995519765::1731768782::1731773769::1::::<><>::
+Warrior_Death_10.png::CompressedTexture2D::9001132999387801937::1731768782::1731773769::1::::<><>::
+Warrior_Death_11.png::CompressedTexture2D::6540254069519476937::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Edge-Idle/::1731773769
+Warrior_Edge-Idle_1.png::CompressedTexture2D::2839213043171576220::1731768782::1731773769::1::::<><>::
+Warrior_Edge-Idle_2.png::CompressedTexture2D::987317929222321422::1731768782::1731773769::1::::<><>::
+Warrior_Edge-Idle_3.png::CompressedTexture2D::1552376774603274092::1731768782::1731773769::1::::<><>::
+Warrior_Edge-Idle_4.png::CompressedTexture2D::2073430663693854722::1731768782::1731773769::1::::<><>::
+Warrior_Edge-Idle_5.png::CompressedTexture2D::1599782208655749598::1731768782::1731773769::1::::<><>::
+Warrior_Edge-Idle_6.png::CompressedTexture2D::7829307904957355169::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/EdgeGrab/::1731773768
+Warrior_Edge-Grab_1.png::CompressedTexture2D::3505112970657539678::1731768782::1731773768::1::::<><>::
+Warrior_Edge-Grab_2.png::CompressedTexture2D::1062319307087791035::1731768782::1731773768::1::::<><>::
+Warrior_Edge-Grab_3.png::CompressedTexture2D::3438713161266383353::1731768782::1731773768::1::::<><>::
+Warrior_Edge-Grab_4.png::CompressedTexture2D::295832710924261127::1731768782::1731773768::1::::<><>::
+Warrior_Edge-Grab_5.png::CompressedTexture2D::6310498117081429952::1731768782::1731773768::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Fall/::1731773768
+Warrior_Fall_1.png::CompressedTexture2D::4607829316905048055::1731768782::1731773768::1::::<><>::
+Warrior_Fall_2.png::CompressedTexture2D::8813406728817702996::1731768782::1731773768::1::::<><>::
+Warrior_Fall_3.png::CompressedTexture2D::1626808776451795495::1731768782::1731773768::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Hurt-Effect/::1731773768
+Warrior_hurt_1.png::CompressedTexture2D::525433941152545971::1731768782::1731773768::1::::<><>::
+Warrior_hurt_2.png::CompressedTexture2D::3929060396428576951::1731768782::1731773768::1::::<><>::
+Warrior_hurt_3.png::CompressedTexture2D::3977714595258427532::1731768782::1731773768::1::::<><>::
+Warrior_hurt_4.png::CompressedTexture2D::2624247486758819307::1731768782::1731773768::1::::<><>::
+::res://Player/Warrior/Individual Sprite/HurtnoEffect/::1731773769
+Warrior_hurt_1.png::CompressedTexture2D::7557920705373591204::1731768782::1731773768::1::::<><>::
+Warrior_hurt_2.png::CompressedTexture2D::4795736825818216088::1731768782::1731773769::1::::<><>::
+Warrior_hurt_3.png::CompressedTexture2D::6773638509461369090::1731768782::1731773769::1::::<><>::
+Warrior_hurt_4.png::CompressedTexture2D::5516545098489660579::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/idle/::1731773769
+Warrior_Idle_1.png::CompressedTexture2D::6986219740641435555::1731768782::1731773769::1::::<><>::
+Warrior_Idle_2.png::CompressedTexture2D::3103213695161582167::1731768782::1731773769::1::::<><>::
+Warrior_Idle_3.png::CompressedTexture2D::8844191273860822346::1731768782::1731773769::1::::<><>::
+Warrior_Idle_4.png::CompressedTexture2D::4108033965269826504::1731768782::1731773769::1::::<><>::
+Warrior_Idle_5.png::CompressedTexture2D::8966034033107322809::1731768782::1731773768::1::::<><>::
+Warrior_Idle_6.png::CompressedTexture2D::1481737527102387831::1731768782::1731773768::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Jump/::1731773768
+Warrior_Jump_1.png::CompressedTexture2D::6167286236137943534::1731768782::1731773768::1::::<><>::
+Warrior_Jump_2.png::CompressedTexture2D::1280677379946084796::1731768782::1731773768::1::::<><>::
+Warrior_Jump_3.png::CompressedTexture2D::6306595148688375195::1731768782::1731773768::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Ladder-Grab/::1731773768
+Warrior-Ladder-Grab_1.png::CompressedTexture2D::1830322578309469507::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_2.png::CompressedTexture2D::7179909723093008227::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_3.png::CompressedTexture2D::2782702121907667572::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_4.png::CompressedTexture2D::918006220556342703::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_5.png::CompressedTexture2D::3038425588455088560::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_6.png::CompressedTexture2D::2786897124579187070::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_7.png::CompressedTexture2D::3890254524438624744::1731768782::1731773768::1::::<><>::
+Warrior-Ladder-Grab_8.png::CompressedTexture2D::400764439740304809::1731768782::1731773768::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Run/::1731773769
+Warrior_Run_1.png::CompressedTexture2D::9207892661636263357::1731768782::1731773768::1::::<><>::
+Warrior_Run_2.png::CompressedTexture2D::6462465627302756719::1731768782::1731773768::1::::<><>::
+Warrior_Run_3.png::CompressedTexture2D::5895347220867164105::1731768782::1731773768::1::::<><>::
+Warrior_Run_4.png::CompressedTexture2D::6744416300936343594::1731768782::1731773768::1::::<><>::
+Warrior_Run_5.png::CompressedTexture2D::2783908098993944751::1731768782::1731773768::1::::<><>::
+Warrior_Run_6.png::CompressedTexture2D::1620298585148150250::1731768782::1731773768::1::::<><>::
+Warrior_Run_7.png::CompressedTexture2D::6436985148896463660::1731768782::1731773769::1::::<><>::
+Warrior_Run_8.png::CompressedTexture2D::1771057251786867436::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/Slide/::1731773769
+Warrior-Slide_1.png::CompressedTexture2D::2220497690813519652::1731768782::1731773769::1::::<><>::
+Warrior-Slide_2.png::CompressedTexture2D::5525765143466933905::1731768782::1731773769::1::::<><>::
+Warrior-Slide_3.png::CompressedTexture2D::1315198441911787672::1731768782::1731773769::1::::<><>::
+Warrior-Slide_4.png::CompressedTexture2D::7247433516434432848::1731768782::1731773769::1::::<><>::
+Warrior-Slide_5.png::CompressedTexture2D::4218589989415002468::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/SlideNoEffect/::1731773769
+Warrior-SlideNoEffect_1.png::CompressedTexture2D::490013322863987387::1731768782::1731773769::1::::<><>::
+Warrior-SlideNoEffect_2.png::CompressedTexture2D::9198018309600817478::1731768782::1731773769::1::::<><>::
+Warrior-SlideNoEffect_3.png::CompressedTexture2D::5415689932603409880::1731768782::1731773769::1::::<><>::
+Warrior-SlideNoEffect_4.png::CompressedTexture2D::2836334368611742014::1731768782::1731773769::1::::<><>::
+Warrior-SlideNoEffect_5.png::CompressedTexture2D::7479682703912476963::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/UptoFall/::1731773769
+Warrior_UptoFall_1.png::CompressedTexture2D::2056931789835081213::1731768782::1731773769::1::::<><>::
+Warrior_UptoFall_2.png::CompressedTexture2D::6176762569718562872::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/WallSlide/::1731773769
+Warrior_WallSlide_1.png::CompressedTexture2D::266201141577468653::1731768782::1731773769::1::::<><>::
+Warrior_WallSlide_2.png::CompressedTexture2D::2044551031244940525::1731768782::1731773769::1::::<><>::
+Warrior_WallSlide_3.png::CompressedTexture2D::2367148052014869135::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/Individual Sprite/WallSlide_NoDust/::1731773769
+Warrior_WallSlide_1.png::CompressedTexture2D::6561070866404027531::1731768782::1731773769::1::::<><>::
+Warrior_WallSlide_2.png::CompressedTexture2D::4305730356270806230::1731768782::1731773769::1::::<><>::
+Warrior_WallSlide_3.png::CompressedTexture2D::5325509057563405009::1731768782::1731773769::1::::<><>::
+::res://Player/Warrior/SpriteSheet/::1731773769
+Warrior_Sheet-Effect.png::CompressedTexture2D::8048726343013343911::1731768782::1731773769::1::::<><>::
+Warrior_SheetnoEffect.png::CompressedTexture2D::343628557933003944::1731768782::1731773769::1::::<><>::
+::res://scene/::1731768782
+README.md::TextFile::-1::1731768782::0::1::::<><>::
+::res://script/::1731768782
+README.md::TextFile::-1::1731768782::0::1::::<><>::
+::res://spritess/::1731773769
+oak_woods_tileset.png::CompressedTexture2D::3016771734940771074::1731768782::1731773769::1::::<><>::
+readme.TXT::TextFile::-1::1731768782::0::1::::<><>::
+::res://spritess/background/::1731773769
+background_layer_1.png::CompressedTexture2D::4240074079743055805::1731768782::1731773769::1::::<><>::
+background_layer_2.png::CompressedTexture2D::2462350591669963063::1731768782::1731773769::1::::<><>::
+background_layer_3.png::CompressedTexture2D::5674106847506886678::1731768782::1731773769::1::::<><>::
+::res://spritess/character/::1731773769
+char_blue.png::CompressedTexture2D::7831873266039558015::1731768782::1731773769::1::::<><>::
+::res://spritess/decorations/::1731773769
+fence_1.png::CompressedTexture2D::5407828131053746347::1731768782::1731773769::1::::<><>::
+fence_2.png::CompressedTexture2D::1783377025774582378::1731768782::1731773769::1::::<><>::
+grass_1.png::CompressedTexture2D::7402412745890120105::1731768782::1731773769::1::::<><>::
+grass_2.png::CompressedTexture2D::9214071634008636206::1731768782::1731773769::1::::<><>::
+grass_3.png::CompressedTexture2D::9193160641791528626::1731768782::1731773769::1::::<><>::
+lamp.png::CompressedTexture2D::968618566258639100::1731768782::1731773769::1::::<><>::
+rock_1.png::CompressedTexture2D::7843290560018380394::1731768782::1731773769::1::::<><>::
+rock_2.png::CompressedTexture2D::7826120041116131984::1731768782::1731773769::1::::<><>::
+rock_3.png::CompressedTexture2D::4048520902774116253::1731768782::1731773769::1::::<><>::
+shop.png::CompressedTexture2D::8379792376674887268::1731768782::1731773769::1::::<><>::
+shop_anim.png::CompressedTexture2D::5936808099639795510::1731768782::1731773769::1::::<><>::
+sign.png::CompressedTexture2D::3780223431938080860::1731768782::1731773769::1::::<><>::
